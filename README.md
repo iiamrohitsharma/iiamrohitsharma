@@ -10,6 +10,7 @@ I am working as Software developer mostly in Web Development 🌐. Having 4+ yea
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://github.com/iiamrohitsharma/iiamrohitsharma/blob/fd71a3504e3cd702f50ce4c5e6098e00441d052a/assets/icons8-microsoft-480.png" width="170"/>
+
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently learning Typescript; 
