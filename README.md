@@ -15,7 +15,7 @@ I am working as Software developer mostly in Web Development 🌐. Having 4+ yea
 
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1DdPUZ5a3p8ZGgu5RKSmedLk7crsbK_8o/view?usp=sharing)
+- 📝 &nbsp; Checkout my [portfolio](https://portfolio-iiamrohitsharma.vercel.app/)
 - 📚 &nbsp; When I am free, I read fiction or non fiction books and also i sing.
 
 
