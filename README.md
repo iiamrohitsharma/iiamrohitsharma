@@ -5,7 +5,7 @@
 
 <br/>
 <br/>
-I am working as Software developer mostly in Web Development 🌐. Having 4+ years experience in .NET Technologies💻 specializing in ASP.NET Core MVC, Entity Framework and Familiar with frontend frameworks and technologies such as Angular 2+ , Kendo Controls, AngularJs. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am working as Software developer 🌐. Having 4+ years experience in .NET Technologies💻 specializing in ASP.NET Core MVC, Entity Framework and Familiar with frontend frameworks and technologies such as Angular 2+ , Kendo Controls, AngularJs. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 <br/>
 <br/>
