@@ -16,7 +16,7 @@ I am working as Software developer 🌐. Having 4+ years experience in .NET Tech
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📝 &nbsp; Checkout my [portfolio](https://portfolio-iiamrohitsharma.vercel.app/)
-- 📚 &nbsp; When I am free, I read fiction or non fiction books and also i sing.
+- 📚 &nbsp; When I am free, I read books OR I sing a lot.
 
 
 
